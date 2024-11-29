@@ -1,0 +1,5 @@
+com\exemplo\Chatbot$Choice.class
+com\exemplo\Chatbot$ChatRequest.class
+com\exemplo\Chatbot$ChatResponse.class
+com\exemplo\Chatbot$Message.class
+com\exemplo\Chatbot.class
